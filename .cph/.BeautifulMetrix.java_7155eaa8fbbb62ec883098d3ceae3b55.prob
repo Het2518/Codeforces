@@ -1,1 +1,0 @@
-{"name":"Local: BeautifulMetrix","url":"c:\\Users\\HET\\Desktop\\CodeForces-practice\\BeautifulMetrix.java","tests":[{"id":1760868256481,"input":"0 0 0 0 0\n0 0 0 0 0\n0 1 0 0 0\n0 0 0 0 0\n0 0 0 0 0","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HET\\Desktop\\CodeForces-practice\\BeautifulMetrix.java","group":"local","local":true}
